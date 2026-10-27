@@ -1,6 +1,6 @@
 # BÀI THI THỰC HÀNH - CÂU 1
 
-- Họ tên: [HỌ VÀ TÊN SINH VIÊN]
+- Họ tên: Tăng Thoại Lâm
 - MSSV: 2474802010210
 
 ## Minh chứng Câu 1
