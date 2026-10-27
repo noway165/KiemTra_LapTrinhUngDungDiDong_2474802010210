@@ -1,5 +1,6 @@
 package vn.edu.vlu.kiemtra_laptrinhungdungdidong_2474802010210
 
+import android.content.Intent
 import android.graphics.Color
 import android.os.Bundle
 import android.util.Patterns
@@ -40,6 +41,9 @@ class LoginActivity : AppCompatActivity() {
                 showStatus(error, Color.RED)
             } else {
                 showStatus(getString(R.string.msg_validation_success), Color.rgb(0, 128, 0))
+                val intent = Intent(this, ProfileActivity::class.java)
+                intent.putExtra(ProfileActivity.EXTRA_EMAIL, email)
+                startActivity(intent)
             }
         }
     }

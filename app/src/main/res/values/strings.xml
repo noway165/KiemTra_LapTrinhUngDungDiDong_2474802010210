@@ -9,4 +9,7 @@
     <string name="err_invalid_email">Invalid email format</string>
     <string name="err_short_password">Password must be at least 6 characters</string>
     <string name="msg_validation_success">Validation Successful!</string>
+    <string name="profile_header">Account Information</string>
+    <string name="profile_email">Email: %1$s</string>
+    <string name="btn_logout">Log Out</string>
 </resources>
