@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">KiemTra_LapTrinhUngDungDiDong_2474802010210</string>
+    <string name="login_header">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="err_empty_email">Email must not be blank</string>
+    <string name="err_empty_password">Password must not be blank</string>
+    <string name="err_invalid_email">Invalid email format</string>
+    <string name="err_short_password">Password must be at least 6 characters</string>
+    <string name="msg_validation_success">Validation Successful!</string>
 </resources>
